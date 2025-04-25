@@ -95,5 +95,5 @@ This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE
 
 For questions, feedback, or contributions, please feel free to open an issue on the repository. -q7
 
-https://github.com/yourusername/ColorRemapper
+https://github.com/qseptq7qsept/ColorRemapper
 
