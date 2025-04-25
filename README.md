@@ -54,6 +54,10 @@ This will create a Python virtual environment, install all dependencies, and pre
    - Drag-and-drop or double-click palette entries to reorder/edit
    - Export Mapping to JSON or Save Result as PNG/JPEG
    - Batch Process a folder to apply the same mapping to multiple images
+  
+3. **Interacting with Color Swatches:**
+   -Colors can be moved up and down by simple drag and drop
+   -Colors can be replaced by double-clicking on them which brings up the Color Selector / Color Picker
 
 ## Features
 
