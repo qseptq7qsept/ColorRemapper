@@ -1,0 +1,15 @@
+{
+  "clusters": 7,
+  "blur": 0.2,
+  "dither": true,
+  "antialias": false,
+  "mapping": {
+    "#1B2A07": "#0B3D02",
+    "#2E3E0A": "#116611",
+    "#4B5C18": "#339933",
+    "#6A7946": "#66BB66",
+    "#8CA367": "#99CC99",
+    "#B0B88A": "#CCE5CC",
+    "#D3DCAD": "#E6F7E6"
+  }
+}

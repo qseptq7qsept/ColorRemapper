@@ -1,0 +1,13 @@
+{
+  "clusters": 5,
+  "blur": 0.0,
+  "dither": true,
+  "antialias": true,
+  "mapping": {
+    "#08001C": "#330033",
+    "#3B0A45": "#800080",
+    "#800080": "#FF1493",
+    "#FF4500": "#FF8C00",
+    "#FFD700": "#FFFF00"
+  }
+}

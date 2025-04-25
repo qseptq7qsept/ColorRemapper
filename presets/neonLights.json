@@ -1,0 +1,16 @@
+{
+  "clusters": 8,
+  "blur": 0.3,
+  "dither": true,
+  "antialias": false,
+  "mapping": {
+    "#0D0D0D": "#FF00FF",
+    "#1A1A1A": "#00FFFF",
+    "#333333": "#FF007F",
+    "#4D4D4D": "#00FF00",
+    "#666666": "#FFFF00",
+    "#808080": "#007FFF",
+    "#999999": "#FF5500",
+    "#B3B3B3": "#55FF00"
+  }
+}

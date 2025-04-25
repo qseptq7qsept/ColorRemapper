@@ -1,0 +1,12 @@
+{
+  "clusters": 4,
+  "blur": 0.0,
+  "dither": true,
+  "antialias": false,
+  "mapping": {
+    "#000000": "#000000",
+    "#555555": "#555555",
+    "#AAAAAA": "#AAAAAA",
+    "#FFFFFF": "#FFFFFF"
+  }
+}
